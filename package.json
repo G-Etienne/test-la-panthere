@@ -1,0 +1,19 @@
+{
+  "name": "la-panthere-seo",
+  "version": "1.0.0",
+  "description": "amelioration du seo du site la panthere",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/G-Etienne/La-panthere.git"
+  },
+  "author": "Etienne ginet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/G-Etienne/La-panthere/issues"
+  },
+  "homepage": "https://github.com/G-Etienne/La-panthere#readme"
+}
